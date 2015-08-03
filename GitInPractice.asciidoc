@@ -1,0 +1,3 @@
+Now that you’ve pushed
+
+Commit to the GitInPracticeRedux remote on GitHub, you can change back to your original repository and git pull from it. Keep the GitInPracticeReduxPushTest directory, because you’ll use it later.
